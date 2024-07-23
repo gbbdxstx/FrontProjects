@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## 项目介绍
+
+> 基于vue3 + ant design 编写的搜索引擎项目前端
